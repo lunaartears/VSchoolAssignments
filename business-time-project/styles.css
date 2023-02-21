@@ -1,0 +1,139 @@
+body {
+    background-color: black;
+}
+#nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+    border-bottom: 1px solid white;
+}
+#readings {
+    color: ivory;
+    font-family: fantasy;
+
+}
+#teas {
+    color: ivory;
+    font-family: fantasy;
+
+}
+#supp {
+    color: ivory;
+    font-family: fantasy;
+}
+#body {
+    color: ivory;
+    font-family: fantasy;
+}
+#jewelry {
+    color: ivory;
+    font-family: fantasy;
+}
+#custom {
+    color: ivory;
+    font-family: fantasy;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h1 {
+    color:ivory;
+    font-family: fantasy;
+    text-align: center;
+    font-size: 50px;
+}
+
+#grid-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 30px;
+    text-align: center;
+
+}
+.products {
+    display: grid;
+}
+#box1 {
+    background-color:ivory;
+    color:darkcyan;
+    font-family: fantasy;
+    border: 10px solid black;
+    border-radius: 25px;
+    grid-column: 2/4;
+    padding: 5px;
+}
+#box2 {
+    background-color:ivory;
+    color:darkcyan;
+    font-family: fantasy;
+    border: 10px solid black;
+    border-radius: 25px;
+    grid-column: 4/6;
+    padding: 5px;
+
+}
+#box3 {
+    background-color:ivory;
+    color:darkcyan;
+    font-family: fantasy;
+    border: 10px solid black;
+    border-radius: 25px;
+    grid-column: 2/4;
+    padding: 5px;
+}
+#box4 {
+    background-color:ivory;
+    color:darkcyan;
+    font-family: fantasy;
+    border: 10px solid black;
+    border-radius: 25px;
+    grid-column: 4/6;
+    padding: 5px;
+}
+#box5 {
+    background-color:ivory;
+    color:darkcyan;
+    font-family: fantasy;
+    border: 10px solid black;
+    border-radius: 25px;
+    grid-column: 3/5;
+    padding: 5px;
+}
+#box6 {
+    background-color:ivory;
+    color:darkcyan;
+    font-family: fantasy;
+    border: 10px solid black;
+    border-radius: 25px;
+    grid-column: 3/5;
+    padding: 5px;
+}
+
+#contact {
+    color: ivory;
+    font-family: fantasy;
+    font-size: 25px;
+}
+#email {
+    display: inline-block;
+    color: ivory;
+    font-family: fantasy;
+    font-size: 25px;
+}
+#insta {
+    display: inline-block;
+    color: ivory;
+    font-family: fantasy;
+    font-size: 25px;
+}
+#fb {
+    display: inline-block;
+    color: ivory;
+    font-family: fantasy;
+    font-size: 25px;
+}
